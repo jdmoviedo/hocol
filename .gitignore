@@ -1,0 +1,5 @@
+#Ignorando
+subir.zip
+php/conexion/params.php
+.vscode/*
+php/vendor/*
